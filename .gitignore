@@ -6,7 +6,10 @@
 # website: http://jupyter.org/
 
 .ipynb_checkpoints
-*/.ipynb_checkpoints/*
+*/*.zip/*
+*/*.json/*
+*/*.ipynb_checkpoints/*
+*/debug.log/*
 
 # IPython
 profile_default/
