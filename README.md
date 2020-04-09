@@ -1,5 +1,6 @@
-# udacity-deep-learning
-My work for Udacity's Deep Learning Nanodegree.
+# Udacity Deep Learning Nanodegree
+My race to complete Udacity's 4-month program during the 1 month free access offer.
+https://www.udacity.com/legal/en-us/one-month-free-access
 
 # Certificate
 Coming soon!
