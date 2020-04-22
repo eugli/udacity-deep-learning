@@ -4,6 +4,7 @@ This repo documents my race to complete Udacity's 4-month nanodegree program dur
 Update: I did it! And with 3 days to spare.
 
 ## Syllabus
+You can view the syllabus [here.](syllabus.pdf)
 
 ## Certificate
 ![Certificate](certification.jpg)
