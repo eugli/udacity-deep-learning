@@ -3,9 +3,7 @@ This repo documents my race to complete Udacity's 4-month nanodegree program dur
 
 Update: I did it! And with 3 days to spare.
 
+## Syllabus
+
 ## Certificate
-<object data="certification.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="certification.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+![Certificate](certification.jpg)
