@@ -7,4 +7,4 @@ Update: I did it! And with 3 days to spare.
 You can view the syllabus [here.](syllabus.pdf)
 
 ## Certificate
-![Certificate](certification.jpg)
+![Certificate](images/certification.jpg)
